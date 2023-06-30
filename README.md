@@ -1,6 +1,5 @@
 # Hi there, I'm Kedar   👋 
 ## I'm a UI-UX with Angular Framework Full-stack Developer !!
-
 - 🌱 I’m currently learning everything.
 - 🥅 2024 Goals: Learn more about android.
 - ⚡ Fun fact: I love to travel, photography and hiking.
